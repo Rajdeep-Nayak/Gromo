@@ -30,7 +30,7 @@ import os
 
 load_dotenv()
 api_key = os.getenv("GOOGLE_API_KEY")
-
+google_api_key = st.secrets["gcp"]["google_api_key"]
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 
