@@ -1,0 +1,10 @@
+gradio
+googletrans==3.1.0a0
+deep-translator
+gTTS
+langdetect
+google-generativeai
+transformers
+sentencepiece
+textblob
+python-dotenv
