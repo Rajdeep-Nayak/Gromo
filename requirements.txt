@@ -9,3 +9,6 @@ sentencepiece
 textblob
 python-dotenv
 streamlit
+torch
+
+# other dependencies...
