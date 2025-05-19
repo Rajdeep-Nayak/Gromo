@@ -11,7 +11,7 @@ from deep_translator import GoogleTranslator
 
 # Streamlit page config
 st.set_page_config(page_title="GroMo Assistant", layout="centered")
-st.title("🤖 GroMo Partner Chatbot")
+st.title("GromoGuide")
 
 # --- API Keys ---
 google_api_key = st.secrets["gcp"]["google_api_key"]
